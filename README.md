@@ -9,4 +9,5 @@ Once your bot is created, you can add that bot's ID in the corresponding places 
 To use in GroupMe, just type "/giphy tags go here" and GiphyBot should post a gif that is *probably* close to the tags entered. Who knows? It could be a complete crap shoot! Giphy might not have any gifs that correspond to those tags! But after all, that's the fun of it.
 
 Example:
+
 ![GiphyBot Example Picture](https://raw.githubusercontent.com/phill117/GiphyBot/master/example.jpg)
