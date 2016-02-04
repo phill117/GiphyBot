@@ -1,0 +1,20 @@
+{
+  "name": "GiphyBot",
+  "version": "1.0.0",
+  "description": "GroupMe Bot with random gifs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "~4.9.x",
+    "request": "2.60.0",
+    "body-parser": "1.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phill117/GiphyBot"
+  },
+  "private": "true"
+}
